@@ -1,3 +1,4 @@
 language: python
 script:
  - sort sender.txt > sender_sorted.txt && cmp sender.txt sender_sorted.txt
+ - ./scripts/create_sender_javascript.sh sender.txt sender_tmp.js && cmp sender.js sender_tmp.js
