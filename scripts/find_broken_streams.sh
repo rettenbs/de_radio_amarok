@@ -4,8 +4,10 @@
 # findBrokenStreams.sh - script to find borken radio stream urls
 #                             -------------------                            
 #    begin                : Feb 2009                                         
-#    copyright            : (C) 2009-2011 by Andreas Wuest                        
-#    email                : andreaswuest@gmx.de                                                
+#    copyright            : (C) 2009-2011 by Andreas Wuest,
+#                         :     2016 by Sebastian Rettenberger
+#    email                : andreaswuest@gmx.de
+#    email                : develop@rettich.bayern
 # ***************************************************************************/                 
 
 #/***************************************************************************
@@ -25,22 +27,29 @@ if [ -z "$CURL" ]; then
   exit 1;  
 fi
 
+error() {
+	echo "$1 : $2"
+	if [ ! "$CHECK_ALL" -eq "1" ]; then
+		exit 1
+	fi
+}
+
 runCheck() {
   # get the list of the urls from the file
-  STREAMS=$(cat $1 | cut -f2 -d, | grep $2) 
+  STREAMS=$(cat $1 | grep -v '^#' | cut -f2 -d, | grep $2) 
   for stream in $STREAMS 
   do
     # download the playlist files 
     HTTP_CODE=$(curl --write-out '%{http_code}' --max-filesize 10000 --output /dev/null --url $stream  2> /dev/null)
     # if the return code is != 200 we got an error
     if [ $HTTP_CODE -eq "301" ]; then 
-      echo "$HTTP_CODE : $stream"
+      error $HTTP_CODE "$stream"
     elif [ $HTTP_CODE -eq "404" ]; then
-      echo "$HTTP_CODE : $stream"
+      error $HTTP_CODE "$stream"
     elif [ $HTTP_CODE -eq "000" ]; then
-      echo "$HTTP_CODE : $stream"
+      error $HTTP_CODE "$stream"
     elif [ ! $HTTP_CODE -eq "200" ]; then
-      echo "$HTTP_CODE : $stream"
+      error $HTTP_CODE "$stream"
     fi
   done 
 
@@ -49,7 +58,7 @@ runCheck() {
 # streams have to be handled different
 runCheckStream() {
   # get the list of the urls from the file
-  STREAMS=$(cat $1 | cut -f2 -d, | grep $2) 
+  STREAMS=$(cat $1 | grep -v '^#' | cut -f2 -d, | grep $2) 
   for stream in $STREAMS 
   do
     # download streram
@@ -62,17 +71,30 @@ runCheckStream() {
     ( kill -s SIGHUP $PID 2> /dev/null ) &
     wait $PID 2>/dev/null
     if [ ! "$RESULT" -eq "1" ]; then
-      echo " FAILED : $stream"
+      error " FAILED" "$stream"
     fi
   done 
 
 }
 
-echo "Checking the file $1 for broken streams !"
-echo 
+# Default options
+CHECK_ALL=0
+
+while getopts "a" opt; do
+	case "$opt" in
+	a)
+		CHECK_ALL=1
+		;;
+	esac
+done
+
+shift $((OPTIND-1))
+
+echo "Checking the file $1 for broken streams !" 1>&2
+echo 1>&2
 
 runCheck $1 "m3u"
-runCheck $1 "pls"
+runCheck $1 "\.pls"
 runCheck $1 "xspf"
 runCheck $1 "wsx"
 runCheck $1 "wax"
@@ -81,5 +103,5 @@ runCheckStream $1 "\.ogg"
 runCheckStream $1 "\.mp3"
 runCheckStream $1 "vtuner"
 
-echo 
-echo "DONE !"
+echo 1>&2
+echo "DONE !" 1>&2
