@@ -23,5 +23,5 @@ SRC_DIR=$DIR/..
 rm -f "$SRC_DIR/de_radio_amarok.amarokscript.tar"
 rm -f "$SRC_DIR/de_radio_amarok.amarokscript.tar.bz2"
 
-tar -cvf de_radio_amarok.amarokscript.tar -C "$SRC_DIR" --transform 's,^,de_radio_amarok/,' script.spec *.js *.png sender.txt changelog.txt
+tar -cvf de_radio_amarok.amarokscript.tar -C "$SRC_DIR" --transform 's,^,de_radio_amarok/,' script.spec *.js *.png sender.txt changelog.txt README.md
 bzip2 -z9 de_radio_amarok.amarokscript.tar
