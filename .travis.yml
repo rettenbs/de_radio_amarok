@@ -1,0 +1,3 @@
+language: python
+script:
+ - sort sender.txt > sender_sorted.txt && cmp sender.txt sender_sorted.txt
