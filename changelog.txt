@@ -1,6 +1,13 @@
 Changelog
 =========
 
+16.10 [22.10.2016]
+
+* new maintainer
+* update of scripts
+* removed all stations that are no longer working
+* new version scheme (year.month.patch)
+
 0.40 [04.04.2014]
 
 * update Radio 7 streams, removed some obsolete streams, add Radio Kiepenkerl, updated FluxFM 
