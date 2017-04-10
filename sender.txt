@@ -668,11 +668,11 @@ RMN soulstar,http://stream.rmnsoulstar.de:8010,http://www.rmnsoulstar.de/
 RNS-Kinderradio,http://streamnosleep-server1.de:8070/,http://www.rns-kinderradio.sendet.de/
 Rock Antenne Alternative,http://www.rockantenne.de/webradio/channels/alternative.m3u,http://www.rockantenne.de/
 Rock Antenne Classic Perlen,http://www.rockantenne.de/webradio/channels/classic-perlen.m3u,http://www.rockantenne.de/
+Rock Antenne Deutschrock,http://www.rockantenne.de/webradio/channels/deutschrock.m3u,http://www.rockantenne.de/
 Rock Antenne Heavy Metal,http://www.rockantenne.de/webradio/channels/heavy-metal.m3u,http://www.rockantenne.de/
 Rock Antenne,http://www.rockantenne.de/webradio/rockantenne.m3u,http://www.rockantenne.de/
 Rock Antenne Soft Rock,http://www.rockantenne.de/webradio/channels/soft-rock.m3u,http://www.rockantenne.de/
 Rock Antenne Young Stars,http://www.rockantenne.de/webradio/channels/young-stars.m3u,http://www.rockantenne.de/
-Rock Antenne Deutschrock,http://www.rockantenne.de/webradio/channels/deutschrock.m3u,http://www.rockantenne.de/
 RockFun24,http://217.175.246.77:9000,http://www.rockfun24.de/
 Rockland Radio Digital,http://stream.rockland-digital.de:8000/rockland,http://www.rockland-digital.de/
 #Rockland Radio,http://www.rockland.de/livestream/livestream.m3u,http://www.rockland.de/,http://www.rockland.de/images/animated_favicon.gif
