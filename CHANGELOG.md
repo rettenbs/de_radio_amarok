@@ -1,10 +1,12 @@
 Changelog
 =========
 
-### Upcoming
+### 17.5 [02.05.2017]
 
-* Make package script usable from everywhere
-* Changelog is now in markdown
+* make package script usable from everywhere
+* changelog is now in markdown (thanks to Fabian Raab for script updates)
+* added additional Rock Antenne Streams (thanks to Fabian Raab)
+* removed stations that are no longer working
 
 ### 16.10 [22.10.2016]
 
