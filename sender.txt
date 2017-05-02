@@ -124,7 +124,7 @@ Byte FM,http://www.byte.fm/stream/bytefm.m3u,http://www.byte.fm/
 #Café 80s FM,http://87.230.92.163:8000/listen.pls,http://www.cafe80s.info/,http://www.cafe80s.info/favicon.ico
 #CampusFM,http://132.252.179.253:8000/listen.pls,http://www.campusfm.info/,
 Casablanca Radio,http://casablancaradio.ice.streaming.spacenet.de/casablancaradio,http://www.casablanca-radio.de/
-central FM,http://stream.centralfm.de:8000/live.m3u,http://www.centralfm.de/
+#central FM,http://stream.centralfm.de:8000/live.m3u,http://www.centralfm.de/
 #Chaos4u-Radio,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=24272,http://www.chaos4u-radio.de/
 #Chaos Radio,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=23564,http://www.chaos-radio.net/
 Charivari 102.4,http://www.radiostream.de/stream/36355.pls,http://www.charivari.fm/,http://www.charivari.fm/favicon.ico
@@ -166,7 +166,7 @@ Deutschlandradio Kultur,http://www.dradio.de/streaming/dkultur_hq_ogg.m3u,http:/
 DIE NEUE 107.7 80s Radio,http://ice01.streaming.space.net:80/dieneue1077_80er,http://www.dieneue1077.de/
 DIE NEUE 107.7,http://ice01.streaming.space.net:80/dieneue1077,http://www.dieneue1077.de/
 DIE NEUE 107.7 Livesongradio,http://ice01.streaming.space.net:80/dieneue1077_live,http://www.dieneue1077.de/
-Die Schlagergarage,http://stream.schlagergarage.de/stream.m3u,http://www.schlagergarage.de/
+#Die Schlagergarage,http://stream.schlagergarage.de/stream.m3u,http://www.schlagergarage.de/
 #Discofox24,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=32335,http://www.dfr24.de/
 #Discofox FM,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=29267,http://www.beatfox.de/
 domradio,http://62.75.220.89:8000,http://www.domradio.de/
@@ -375,7 +375,7 @@ MDR Klassik,http://avw.mdr.de/livestreams/mdr_klassik_live_128.asx,http://www.md
 #MDR Sputnik Rock Channel,http://www.sputnik.de/m3u/rock.hi.m3u,http://www.sputnik.de/programm/streaming/mdr-sputnik-rock-stream
 #MDR Sputnik Soundcheck Channel,http://www.sputnik.de/m3u/soundcheck.hi.m3u,http://www.sputnik.de/programm/streaming/mdr-sputnik-soundcheck-stream
 #Meditation FM,http://s2.fairprice-streams.de:9070/listen.pls,http://www.meditation.fm/
-Metal-Only,http://metal-only.de/listen.pls,http://www.metal-only.de/,http://www.metal-only.de/favicon.ico
+#Metal-Only,http://metal-only.de/listen.pls,http://www.metal-only.de/,http://www.metal-only.de/favicon.ico
 MixTownRadio,http://85.214.43.250:8000/,http://www.mixtownradio.de/
 #multicult.fm,http://www.multicult.fm/fileadmin/stream/multicult.FM.m3u,http://www.multicult.fm/
 Munich Radio,http://www.munich-radio.de:8000,http://www.munich-radio.de/
@@ -470,7 +470,7 @@ radio96acht Bonn,http://212.201.68.159:8000/live_high,http://www.radio96acht.de/
 radio99,http://radio99.de/listen.m3u,http://www.radio99.de/
 #Radio Alpenwelle,http://c27000-l.i.core.cdn.streamfarm.net/27000alpenwelle/3136alpenwelle/live_de_96.mp3,http://www.alpenwelle.de/
 #Radio Altstadtwelle,http://radio-altstadtwelle.de/stream/streamw.asx,http://www.altstadtwelle.de/
-Radio Augsburg,http://www.radio-augsburg.de/streams/radioaugsburg.m3u,http://www.radio-augsburg.de/
+#Radio Augsburg,http://www.radio-augsburg.de/streams/radioaugsburg.m3u,http://www.radio-augsburg.de/
 #Radio AWN,http://awn.blm.netlantic.net:80/radio_live.mp3,http://www.radioawn.de/
 Radio Bamberg,http://ipx14566.ipxserver.de:8000,http://www.radio-bamberg.de/
 Radio Basslover,http://www.basslover.de/radio/mediaplayer.asx,http://www.basslover.de/
@@ -520,7 +520,7 @@ Radio F.R.E.I.,http://streaming.fueralle.org:8000/Radio-F.R.E.I.m3u,http://www.r
 Radio Fresh80s,http://www.fresh80s.de/listen.wax,http://www.fresh80s.de/
 Radio Funkwerk,http://fra.radiostream.de:34815,http://www.tlm-funkwerk.de/
 Radio Gaga,http://gaga.fm/mp3-stream.pls,http://www.radiogaga-muenchen.de/,http://gaga.fm/images/favicon.ico
-Radio Galaxy Bamberg,http://www.radio-galaxy.de/addon/webradio/radiogalaxy.m3u,http://www.radio-galaxy.de/galaxy/local/bamberg.php,http://www.radio-galaxy.de/favicon.ico
+#Radio Galaxy Bamberg,http://www.radio-galaxy.de/addon/webradio/radiogalaxy.m3u,http://www.radio-galaxy.de/galaxy/local/bamberg.php,http://www.radio-galaxy.de/favicon.ico
 #Radio Galaxy Bayreuth,http://radio-galaxy.mwsc.tmt.de/listen.pls,http://www.radio-galaxy.de/galaxy/local/bayreuth.php,http://www.radio-galaxy.de/favicon.ico
 #Radio Galaxy Digital,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=27649,http://www.radio-galaxy.de/
 Radio Galaxy Ingolstadt,http://www.baeumler.de/galaxy/galaxyhigh.asx,http://www.radio-galaxy.de/galaxy/local/ingolstadt.php,http://www.radio-galaxy.de/favicon.ico
@@ -568,7 +568,7 @@ Radio Lechtal,http://radio-lechtal.de:8004,http://www.radio-lechtal.de/
 #Radio Lohro,http://stream.lohro.de:8000/lohro128.mp3.m3u,http://www.lohro.de/
 #Radio Lotte,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22027,http://www.radio-lotte.de/
 Radio Mainwelle,http://radio-mainwelle.mwsc.tmt.de:80/,http://www.radio-mainwelle.de/index.php
-Radio Megastar,http://login.streamplus.de/player.php?spt=3097.asx,http://www.radio-megastar.com/
+#Radio Megastar,http://login.streamplus.de/player.php?spt=3097.asx,http://www.radio-megastar.com/
 #Radio Melodie,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=12191,http://www.radiomelodie.net/html/index.html
 #Radio Memories,http://www.radio-memories.com/media/StartPlayer/64-1426.wax,http://www.radio-memories.com/
 #Radio MK,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=9905,http://www.radio-mk.de/
@@ -589,7 +589,7 @@ Radio.null6,http://62.27.26.27:80/,http://www.radio.null6.net/
 #Radio OKJ,http://streamserver.max.fm/okjena.m3u,http://www.radio-okj.de/
 Radio Ostfriesland,http://www.radiostream.de/stream/36949.asx,http://neu.radio-ostfriesland.com/
 Radio Paradiso,http://rhb.3qmedien.net:8500/,http://www.paradiso.de/,http://www.paradiso.de/favicon.ico
-Radio Plassenburg,http://admin2.321stream.de/tunein.php/kd185/playlist.asx,http://www.radio-plassenburg.de/
+#Radio Plassenburg,http://admin2.321stream.de/tunein.php/kd185/playlist.asx,http://www.radio-plassenburg.de/
 #Radio Plattenküche,http://radio-plattenkueche.de/download/stream.asx,http://radio-plattenkueche.de/
 Radio Primaton,http://webradio.radioprimaton.de:8000,http://www.primatononline.de/
 #Radio PSR,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=2643,http://www.radiopsr.de/
@@ -677,7 +677,7 @@ RockFun24,http://217.175.246.77:9000,http://www.rockfun24.de/
 Rockland Radio Digital,http://stream.rockland-digital.de:8000/rockland,http://www.rockland-digital.de/
 #Rockland Radio,http://www.rockland.de/livestream/livestream.m3u,http://www.rockland.de/,http://www.rockland.de/images/animated_favicon.gif
 Rockradio.de,http://www.rockradio.de/rr_listen_128k_winamp.m3u,http://www.rockradio.de/
-Rocky FM,http://www.rockyfm.de/listen.asx,http://www.rockyfm.de/
+#Rocky FM,http://www.rockyfm.de/listen.asx,http://www.rockyfm.de/
 #RPR1 Best of 80s,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=17120,http://www.rpr1.de/de/content/view/75/343/
 #RPR1,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22320,http://www.rpr1.de/de/content/view/75/343/
 #RPR1 NewSongs,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22319,http://www.rpr1.de/de/content/view/75/343/
@@ -705,7 +705,7 @@ Shouted FM Break,http://break.mthn.net:8800,http://www.shoutedfm.de/
 Shouted FM Club,http://club.mthN.net:8200,http://www.shoutedfm.de/
 Shouted FM Electro,http://electro.mthN.net:8400,http://www.shoutedfm.de/
 Shouted FM House,http://house.mthN.net:8500,http://www.shoutedfm.de/
-Shouted FM Mainstream,http://www.shouted.fm/tunein/main-dsl.m3u,http://www.shoutedfm.de/
+#Shouted FM Mainstream,http://www.shouted.fm/tunein/main-dsl.m3u,http://www.shoutedfm.de/
 Simply Electronica,http://www.stream24.de/tune-in/r2710.asx,http://www.simply-electronica.de/
 Singlestreff-Radio,http://87.118.119.128:10300,http://germanradio.info/radio/
 #Smart Radio,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=31275,http://smartradio.radio.de/
@@ -769,7 +769,7 @@ Sympatic Funradio,http://www.stream24.de/tune-in/r2850.asx,http://www.sympatic-f
 #tanzfm,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28042,http://www.tanzfm.de/
 techno4ever.net,http://listen.to.techno4ever.net,http://www.techno4ever.net/
 Technobase.FM,http://listen.technobase.fm/dsl.asx,http://www.technobase.fm/
-TECTREX FM,http://login.streamplus.de/player.php?spt=4922.asx,http://www.tectrex.de/
+#TECTREX FM,http://login.streamplus.de/player.php?spt=4922.asx,http://www.tectrex.de/
 #teutoRADIO,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=11056,http://www.teutoradio.de/
 #TheRealFM,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=34220,http://thereal-fm.de/
 #TIDE 96.0,http://streaming.tidenet.de:8000/tide128.ogg.m3u,http://www.tidenet.de/
@@ -829,11 +829,11 @@ WebRadio Troisdorf,http://www.webradiotroisdorf.de/wrt/WebRadio128.pls,http://ww
 WEEK-FM ONE,http://www.week-fm.de/player/stream/stream.m3u,http://www.week-fm.de/
 Week-FM THREE Schlagerfox,http://www.week-fm.de/player/three/stream.m3u,http://week-fm.de/
 WEEK-FM TWO Top 100,http://www.week-fm.de/player/two/stream.m3u,http://www.week-fm.de/
-Welle303,http://login.streamplus.de/player.php?spt=747.m3u,http://www.welle303.de/
-Wellenbummler Köln-Buchheim,http://login.streamplus.de/player.php?spt=4892.m3u,http://www.wellenbummler.mynetcologne.de/
+#Welle303,http://login.streamplus.de/player.php?spt=747.m3u,http://www.welle303.de/
+#Wellenbummler Köln-Buchheim,http://login.streamplus.de/player.php?spt=4892.m3u,http://www.wellenbummler.mynetcologne.de/
 #Welle Niederrhein,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22180,http://www.welleniederrhein.de/
 We Love House.FM,http://we-love-house.fm:8000/stream.m3u,http://www.we-love-house.fm/
-Werre Park Radio,http://login.streamplus.de/player.php?spt=6152.asx,http://www.werre-radio.de/
+#Werre Park Radio,http://login.streamplus.de/player.php?spt=6152.asx,http://www.werre-radio.de/
 WildLife-Radio Clubstream,http://r1.gold-stream.de:1350,http://www.wildlife-radio.net/
 WildLife-Radio EventStream,http://r1.gold-stream.de:1360,http://www.wildlife-radio.net/
 WildLife-Radio Mainstream,http://r1.gold-stream.de:1300,http://www.wildlife-radio.net/
