@@ -584,8 +584,8 @@ Radio.null6,http://62.27.26.27:80/,http://www.radio.null6.net/
 #Radio Oberhausen,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=26042,http://www.106.2radiooberhausen.de/
 #Radio Oberkrain,http://www.radio-oberkrain.com/Radio_Oberkrain/mediafiles/ro.asx,http://www.radio-oberkrain.com/
 #Radio Oberland,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=12193,http://www.radio-oberland.de/
-Radio Okerwelle 104.6,http://www.okerwelle.de/webradio/live.m3u,http://www.okerwelle.de/cms/
 #Radio-of-Mystic,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=33547,www.radiomystic.com/
+Radio Okerwelle 104.6,http://www.okerwelle.de/webradio/live.m3u,http://www.okerwelle.de/cms/
 #Radio OKJ,http://streamserver.max.fm/okjena.m3u,http://www.radio-okj.de/
 Radio Ostfriesland,http://www.radiostream.de/stream/36949.asx,http://neu.radio-ostfriesland.com/
 Radio Paradiso,http://rhb.3qmedien.net:8500/,http://www.paradiso.de/,http://www.paradiso.de/favicon.ico
