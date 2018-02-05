@@ -1,6 +1,12 @@
 Changelog
 =========
 
+### 18.2 [05.02.2018]
+
+* update some Bavarian stations
+* remove all station that are no longer working
+* added "Radio Okerwelle" (thanks to boris64)
+
 ### 17.5 [02.05.2017]
 
 * make package script usable from everywhere

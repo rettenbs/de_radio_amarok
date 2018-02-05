@@ -23,7 +23,7 @@
 304 Radio 2,http://87.106.137.55:9810/,http://304radio.styleventure.de/
 54house.fm,http://listen.54house.fm/wmp_listen.wpl,http://www.54house.fm/
 #88.4 FM Berlin,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=34346,http://www.88vier.de/
-89.0 RTL,http://www.89.0rtl.de/webradio/rtl-high.m3u,http://www.89.0rtl.de/,http://www.89.0rtl.de/favicon.ico
+#89.0 RTL,http://www.89.0rtl.de/webradio/rtl-high.m3u,http://www.89.0rtl.de/,http://www.89.0rtl.de/favicon.ico
 #94.3 RS2,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=1461,http://www.rs2.de/
 #97eins,http://rs1.radiostreamer.com:8140/listen.pls,http://www.97eins.de/,
 #alster radio 106!8,http://live96.106acht.de/listen.pls,http://www.106acht.de/,http://www.106acht.de/favicon.ico
@@ -75,20 +75,19 @@ Antenne MV,http://tiscali.project-fx.de/play.wma?radio=antmeckpomm,http://www.an
 #Antenne Top 40,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28626,http://www.antenne.com/
 #Antenne Unna,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=24647,http://www.antenneunna.de/
 #apollo radio,http://217.68.161.157:6300/listen.pls,http://www.apolloradio.de/,http://www.apolloradio.de/favicon.ico
-B5 aktuell,http://streams.br-online.de/b5aktuell_1.m3u,http://www.br-online.de/b5aktuell/,http://www.br-online.de/favicon.ico
 #babaganousha Ambient,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=27441,http://www.babaganousha.net/
 #babaganousha Psytrance,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=27440,http://www.babaganousha.net/
 #Baden FM,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=24648,http://www.baden.fm/
 Ballermann Radio,http://media.ballermann-radio.com:8000/,http://www.ballermann-radio.com/
 Bash FM,http://onair.bash.fm/bash-fm_it.m3u,http://www.bash.fm/
 #BassTune Radio,http://www.basstune.de/basstune.wax,http://www.basstune.de/
-Bayern 1,http://streams.br-online.de/bayern1_1.m3u,http://www.br-online.de/bayern1/,http://www.br-online.de/favicon.ico
-Bayern 2,http://streams.br-online.de/bayern2_2.m3u,http://www.br-online.de/bayern2/,http://www.br-online.de/favicon.ico
-Bayern 3,http://streams.br-online.de/bayern3_2.m3u,http://www.br-online.de/bayern3/,http://www.br-online.de/favicon.ico
-Bayern 4 Klassik,http://streams.br-online.de/br-klassik_2.m3u,http://www.br-online.de/bayern4/,http://www.br-online.de/favicon.ico
-Bayern B5 aktuell,http://streams.br-online.de/b5aktuell_2.m3u,http://www.br-online.de/b5aktuell/,http://www.br-online.de/favicon.ico
-Bayern B5 plus,http://streams.br-online.de/b5plus_2.m3u,http://www.br-online.de/bayern-plus/index.xml,http://www.br-online.de/favicon.ico
-Bayern plus,http://streams.br-online.de/bayernmobil_2.m3u,http://www.br-online.de/bayern-plus/index.xml,http://www.br-online.de/favicon.ico
+Bayern 1,http://streams.br.de/bayern1obb_2.m3u,http://www.br-online.de/bayern1/,http://www.br-online.de/favicon.ico
+Bayern 2,http://streams.br.de/bayern2sued_2.m3u,http://www.br-online.de/bayern2/,http://www.br-online.de/favicon.ico
+Bayern 3,http://streams.br.de/bayern3_2.m3u,http://www.br-online.de/bayern3/,http://www.br-online.de/favicon.ico
+Bayern 4 Klassik,http://streams.br.de/br-klassik_2.m3u,http://www.br-online.de/bayern4/,http://www.br-online.de/favicon.ico
+Bayern B5 aktuell,http://streams.br.de/b5aktuell_2.m3u,http://www.br-online.de/b5aktuell/,http://www.br-online.de/favicon.ico
+Bayern B5 plus,http://streams.br.de/b5plus_2.m3u,http://www.br-online.de/bayern-plus/index.xml,http://www.br-online.de/favicon.ico
+Bayern plus,http://streams.br.de/bayernplus_2.m3u,http://www.br-online.de/bayern-plus/index.xml,http://www.br-online.de/favicon.ico
 #Bayern Welle BGL,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28946,http://www.bayernwelle.de/
 #Bayern Welle TS,http://icebwso.srv.co.at/plsfiles_bwchg/bwchg_hi.m3u?1290981317,http://www.bayernwelle.de/
 #BB Radio,http://streams.ir-media-tec.com/bbradio.ogg,http://www.bbradio.de/,http://www.bbradio.de/pub/pic/favicon.ico
@@ -117,7 +116,7 @@ BLACKBEATS.FM,http://blackbeats.fm/listen.m3u,http://www.blackbeats.fm/,http://w
 #Bollywood Radio,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=24001,http://www.bollywoodradio.de/
 #Bonncampus.fm,http://131.220.73.8:8000/listen.pls,http://www.bonncampus.fm/,http://www.bonncampus.fm/wp-content/themes/bonncampus.fm/images/favicon.ico
 B-Radio4U,http://85.214.28.11:8038/,http://www.b-radio4u.de/
-BR on3-radio,http://streams.br-online.de/jugend-radio_2.m3u,http://www.on3-radio.de/
+#BR on3-radio,http://streams.br-online.de/jugend-radio_2.m3u,http://www.on3-radio.de/
 #Buchholz FM,http://s7.pop-stream.de:7260/listen.pls,http://buchholz.fm/,http://buchholz.fm/favicon.ico
 #burnFM,http://stream100.inttech.de:8000/burnfm.mp3.m3u,http://www.burn-fm.de/,http://www.burn-fm.de/favicon.ico
 Byte FM,http://www.byte.fm/stream/bytefm.m3u,http://www.byte.fm/
@@ -138,7 +137,7 @@ Charivari 98.6 Soul,http://tiscali.project-fx.de/play.wma?radio=charivarisoul,ht
 Chromanova Ambient,http://85.25.86.69:8100/,http://www.ambient-radio.de/
 Chromanova Psy Trance,http://85.25.86.69:8000/,http://www.chromanova.de/home.htm
 #Classical 102,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=30853,http://www.classical102.com/
-Club Lounge Radio,http://www.Club-Lounge-Radio.com/Club-Lounge-Radio.m3u,http://www.club-lounge-radio.com/
+#Club Lounge Radio,http://www.Club-Lounge-Radio.com/Club-Lounge-Radio.m3u,http://www.club-lounge-radio.com/
 #ClubNature.FM,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28056,http://www.clubnature.fm/
 #Clubradio 24,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=33073,http://www.clubradio24.dj/
 Clubradio NRW Fox,http://www.clubradio-nrw.com/infusions/gr_radiostatus_panel/gr_radiostatus_player.php?id=3&p=pls,http://www.clubradio-nrw.com/,http://www.clubradio-nrw.com/images/favicon.ico
@@ -254,7 +253,7 @@ hr2,http://metafiles.gl-systemhaus.de/hr/hr2_2.m3u,http://www.hr-online.de/websi
 hr3,http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u,http://www.hr-online.de/website/radio/home/index.jsp
 hr4,http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u,http://www.hr-online.de/website/radio/home/index.jsp
 hr info,http://metafiles.gl-systemhaus.de/hr/hrinfo_2.m3u,http://www.hr-online.de/website/radio/home/index.jsp
-hr youfm Black,http://metafiles.gl-systemhaus.de/hr/youfm_black.m3u,http://www.you-fm.de/
+#hr youfm Black,http://metafiles.gl-systemhaus.de/hr/youfm_black.m3u,http://www.you-fm.de/
 hr youfm Club,http://metafiles.gl-systemhaus.de/hr/youfm_club.m3u,http://www.you-fm.de/
 hr youfm,http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u,http://www.you-fm.de/
 hr youfm Rock,http://metafiles.gl-systemhaus.de/hr/youfm_rock.m3u,http://www.you-fm.de/
@@ -281,7 +280,7 @@ KISS-FM pure Rap,http://tiscali.project-fx.de/play.wma?radio=kiss-fm-rap,http://
 KISS-FM pure RnB,http://tiscali.project-fx.de/play.wma?radio=kiss-fm-rnb,http://www.kissfm.de/
 #Klassik Radio,http://edge.live.mp3.mdn.newmedia.nacamar.net/klassikradio96/livestream.mp3,http://www.klassikradio.de/,http://www.klassikradio.de/favicon.ico
 Kölncampus 100.0,http://zaik-vs2.ad.uni-koeln.de:8002,http://koelncampus.com/kc/page/4825/home.html
-Kuschel.fm,http://stream.kuschel.fm:8040/listen.pls,http://www.kuschel.fm,http://www.kuschel.fm/favicon.ico
+#Kuschel.fm,http://stream.kuschel.fm:8040/listen.pls,http://www.kuschel.fm,http://www.kuschel.fm/favicon.ico
 #Landeswelle Thüringen,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22790,www.landeswelle.de/
 laut.fm/45-rpm,http://stream.laut.fm/45-rpm.m3u,http://www.laut.fm/#45-rpm
 laut.fm/80er-zone,http://stream.laut.fm/80er-zone.m3u,http://www.laut.fm/#80er-zone
@@ -362,9 +361,9 @@ MDR Figaro Classic in Concert,http://avw.mdr.de/livestreams/mdr_figaro_classic_1
 MDR Figaro Folk in Concert,http://avw.mdr.de/livestreams/mdr_figaro_folk_128.m3u,http://www.mdr.de/mdr-figaro/webchannels/6526131.html
 MDR Figaro,http://avw.mdr.de/livestreams/mdr_figaro_live_128.m3u,http://www.mdr.de/mediathek/radio/5869286.html
 MDR Info,http://avw.mdr.de/livestreams/mdr_info_live_128.m3u,http://www.mdr.de/mediathek/radio/5869286.html
-MDR Jump,http://www.jumpradio.de/static/webchannel/jump_live_channel_high.m3u,http://www.jumpradio.de/start/inhalt/jump.shtml
-MDR Jump Rock Channel,http://www.jumpradio.de/static/webchannel/jump_rock_channel_128.m3u,http://www.jumpradio.de/programm/inhalt/rock_channel.shtml
-MDR Jump Trend Channel,http://www.jumpradio.de/static/webchannel/jump_trend_channel_128.m3u,http://www.jumpradio.de/programm/inhalt/trend_channel.shtml
+#MDR Jump,http://www.jumpradio.de/static/webchannel/jump_live_channel_high.m3u,http://www.jumpradio.de/start/inhalt/jump.shtml
+#MDR Jump Rock Channel,http://www.jumpradio.de/static/webchannel/jump_rock_channel_128.m3u,http://www.jumpradio.de/programm/inhalt/rock_channel.shtml
+#MDR Jump Trend Channel,http://www.jumpradio.de/static/webchannel/jump_trend_channel_128.m3u,http://www.jumpradio.de/programm/inhalt/trend_channel.shtml
 MDR Klassik,http://avw.mdr.de/livestreams/mdr_klassik_live_128.asx,http://www.mdr.de/mdr-klassik/
 #MDR Sputnik Black Channel,http://www.sputnik.de/m3u/black.hi.m3u,http://www.sputnik.de/programm/streaming/mdr-sputnik-black-stream
 #MDR Sputnik Club Channel,http://www.sputnik.de/m3u/club.hi.m3u,http://www.sputnik.de/programm/streaming/mdr-sputnik-club-stream
@@ -467,13 +466,13 @@ Radio 7 Herz,http://srv02.radio7.fmstreams.de/radio7_downa,http://www.radio7.de/
 #Radio 7,http://srv01.radio7.fmstreams.de/stream1/livestream.mp3.m3u,http://www.radio7.de/,http://www.radio7.de/favicon.ico
 #Radio 91.2 Dortmund,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=21891,http://www.radio912.de/.http://www.radio912.de/favicon.ico
 radio96acht Bonn,http://212.201.68.159:8000/live_high,http://www.radio96acht.de/
-radio99,http://radio99.de/listen.m3u,http://www.radio99.de/
+#radio99,http://radio99.de/listen.m3u,http://www.radio99.de/
 #Radio Alpenwelle,http://c27000-l.i.core.cdn.streamfarm.net/27000alpenwelle/3136alpenwelle/live_de_96.mp3,http://www.alpenwelle.de/
 #Radio Altstadtwelle,http://radio-altstadtwelle.de/stream/streamw.asx,http://www.altstadtwelle.de/
 #Radio Augsburg,http://www.radio-augsburg.de/streams/radioaugsburg.m3u,http://www.radio-augsburg.de/
 #Radio AWN,http://awn.blm.netlantic.net:80/radio_live.mp3,http://www.radioawn.de/
 Radio Bamberg,http://ipx14566.ipxserver.de:8000,http://www.radio-bamberg.de/
-Radio Basslover,http://www.basslover.de/radio/mediaplayer.asx,http://www.basslover.de/
+#Radio Basslover,http://www.basslover.de/radio/mediaplayer.asx,http://www.basslover.de/
 #Radio Berg,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22183,www.radioberg.de/
 #Radio Bielefeld,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=20918,http://www.radiobielefeld.de/
 Radio Blau (18-23Uhr),http://streaming.fueralle.org:8000/blau,http://www.radioblau.de/
@@ -505,7 +504,7 @@ Radio Eins Coburg,http://ipx14567.ipxserver.de:8000,http://www.radioeins.com/
 #Radio Ennepe Ruhr,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28922,http://www.radioenneperuhr.de/
 #Radio Erft,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22182,http://www.radioerft.de/
 #Radio Erzgebirge,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28819,http://www.radioerzgebirge-online.de/
-Radio Essen,http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioessen/livestream.mp3,http://www.radioessen.de/,http://www.radioessen.de/favicon.ico
+#Radio Essen,http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioessen/livestream.mp3,http://www.radioessen.de/,http://www.radioessen.de/favicon.ico
 #Radio Euskirchen,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=21751,http://www.radioeuskirchen.de/
 Radio eXodus,http://stream.radio-exodus.de/,http://www.radio-exodus.de/,http://www.radio-exodus.de/favicon.ico
 #Radio Faaz,http://www.radiofaaz.com/pl/RadioFaaz.m3u,http://www.radiofaaz.com/
@@ -547,11 +546,11 @@ Radio Hitwelle Ebersberg,mms://stream.hitwelle.de/ebersberg,http://www.hitwelle.
 Radio Hitwelle Erding,mms://stream.hitwelle.de/hitwelle,http://www.hitwelle.de/
 Radio Hitwelle Freising,mms://stream.hitwelle.de/hitwelle2,http://www.hitwelle.de/
 #Radio Hochstift,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=21895,http://www.radiohochstift.de/
-Radio Horeb,http://www.stream24.de/tune-in/r3080.pls,http://www.horeb.org/
+#Radio Horeb,http://www.stream24.de/tune-in/r3080.pls,http://www.horeb.org/
 Radio In,http://4broadcast.de/radioin.m3u,http://www.radio-in.de/,http://www.radio-in.de/favicon.ico
 Radio Jade,http://streaming.radiojade.de/windows_media.m3u,http://www.radiojade.de/
 Radio Jumper 2010,http://streamplus14.ameus.de:21860,
-Radio Kiepenkerl,http://www.radiokiepenkerl-online.de/player/kiepenkerl.asx,http://www.radiokiepenkerl-online.de/
+#Radio Kiepenkerl,http://www.radiokiepenkerl-online.de/player/kiepenkerl.asx,http://www.radiokiepenkerl-online.de/
 Radio Kinzigtal 2,http://streamplus13.leonex.de:21640,http://www.radio-kinzigtal.de/
 Radio Kinzigtal,http://streamplus17.leonex.de:18508,http://www.radio-kinzigtal.de/
 Radio Klinikfunk,http://www.digital-webstream.de/stream/31780.m3u,http://www.klinikfunk.de/
@@ -585,6 +584,7 @@ Radio.null6,http://62.27.26.27:80/,http://www.radio.null6.net/
 #Radio Oberhausen,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=26042,http://www.106.2radiooberhausen.de/
 #Radio Oberkrain,http://www.radio-oberkrain.com/Radio_Oberkrain/mediafiles/ro.asx,http://www.radio-oberkrain.com/
 #Radio Oberland,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=12193,http://www.radio-oberland.de/
+Radio Okerwelle 104.6,http://www.okerwelle.de/webradio/live.m3u,http://www.okerwelle.de/cms/
 #Radio-of-Mystic,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=33547,www.radiomystic.com/
 #Radio OKJ,http://streamserver.max.fm/okjena.m3u,http://www.radio-okj.de/
 Radio Ostfriesland,http://www.radiostream.de/stream/36949.asx,http://neu.radio-ostfriesland.com/
@@ -605,20 +605,20 @@ Radio Russkij Berlin,212.202.99.165:8000,http://www.radio-rb.de/
 #Radio Salü Classic Rock,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28636,http://www.salue.de/
 #Radio Salü,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=4193,http://www.salue.de/
 #Radio Santec,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=7304,http://www.radio-santec.com/
-Radio SAW 70er,http://stream.saw-musikwelt.de/saw-70er/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
-Radio SAW 80er,http://stream.saw-musikwelt.de/saw-80er/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
-Radio SAW 90er,http://stream.saw-musikwelt.de/saw-90er/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
+#Radio SAW 70er,http://stream.saw-musikwelt.de/saw-70er/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
+#Radio SAW 80er,http://stream.saw-musikwelt.de/saw-80er/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
+#Radio SAW 90er,http://stream.saw-musikwelt.de/saw-90er/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
 Radio SAW,http://stream.radiosaw.de/,http://www.radiosaw.de/stream.m3u,http://www.radiosaw.de/favicon.ico
-Radio SAW Neuheiten,http://stream.saw-musikwelt.de/saw-neuheiten/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
-Radio SAW Party,http://stream.saw-musikwelt.de/saw-party/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
-Radio SAW Rock,http://stream.saw-musikwelt.de/saw-rock/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
-Radio SAW Schlager,http://stream.saw-musikwelt.de/saw-schlager/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
+#Radio SAW Neuheiten,http://stream.saw-musikwelt.de/saw-neuheiten/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
+#Radio SAW Party,http://stream.saw-musikwelt.de/saw-party/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
+#Radio SAW Rock,http://stream.saw-musikwelt.de/saw-rock/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
+#Radio SAW Schlager,http://stream.saw-musikwelt.de/saw-schlager/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
 Radio Schwarze Welle,http://www.schwarze-welle.de/play.m3u,http://www.schwarze-welle.com/
 Radio Seefunk,http://webradio.radio-seefunk.de:8000/listen.pls,http://www.radio-seefunk.de/,http://media.kanal8.de/favicons/favicon60.ico
 #Radio Siegen,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=24596,http://www.radio-siegen.de/
 Radio Sound4You,http://www.leiche.mistkerl.eu/streambox/media.php?url=streamserver03.de&port=13028,http://www.radiosound4you.de/
 Radio SSC,http://www.radio-ssc.de:9000,http://www.radio-ssc.de/
-Radio Starlightsound2004,http://login.streamplus.de/player.php?spt=7929.m3u,http://www.starlightsound2004.com/
+#Radio Starlightsound2004,http://login.streamplus.de/player.php?spt=7929.m3u,http://www.starlightsound2004.com/
 #Radio Studio Lam 1,http://www.studiolam1.de/index/player/stream.wax,http://www.studiolam1.de/
 Radio Studio Lam 2,http://streamplus13.ameus.de:17740/,http://www.studiolam.de/
 Radio Superoldie,http://rso.rcm-hosting.de:8888,http://www.radiosuperoldie.com/
@@ -642,7 +642,7 @@ Radio Weissblau,http://stream.r-wb.net:8000,http://radio-weissblau.de/
 Radio Z,http://www.radio-z.net/Radio-Z.m3u,http://www.radio-z.net/,http://www.radio-z.net/favicon.ico
 Radio ZuSa,http://stream.radio-zusa.net/zusa.m3u,http://www.zusa.de/,http://www.zusa.de/favicon.ico
 #Radio Zwickau,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22269,http://www.radiozwickau.de/
-Raggakings Radio,http://www.raggakings.net/listen.m3u,http://www.raggakings.net/
+#Raggakings Radio,http://www.raggakings.net/listen.m3u,http://www.raggakings.net/
 Rainbow-Stream,http://www.digital-webstream.de/stream/20835.m3u,http://www.rainbow-stream.com/
 RBB Antenne Brandenburg,http://www.antennebrandenburg.de/live.pls,http://www.antennebrandenburg.de/,http://www.antennebrandenburg.de/ant/grafik/favicon.ico
 RBB fritz,http://www.fritz.de/live.pls,http://www.fritz.de/,http://www.fritz.de/frz/grafik/favicon.ico
@@ -652,7 +652,7 @@ RBB Radio Berlin 88.8,http://www.radioberlin.de/live.pls,http://www.radioberlin.
 RBB Radio Eins,http://www.radioeins.de/live.pls,http://www.radioeins.de/,http://www.radioeins.de/rad/grafik/favicon.ico
 Reboot.FM 88.4,http://91.213.60.40:8002/stream,http://reboot.fm/
 recorder-radio,http://rs3.stream24.org:8220,http://www.recorder-radio.com/
-Rheinerft Radio,http://www.stream24.de/tune-in/r2106.asx,http://www.rheinerft-radio.de/
+#Rheinerft Radio,http://www.stream24.de/tune-in/r2106.asx,http://www.rheinerft-radio.de/
 #Rise FM,http://risefm.de/src/live.m3u,http://www.risefm.de/
 RMN christmas,http://stream.dasweihnachtsradio.de:8090/,http://www.dasweihnachtsradio.de/
 RMN dancechannel,http://server.dancechannel.de:8030,http://www.dancechannel.de/
@@ -695,7 +695,7 @@ Sceen.fm,http://80.252.111.200:8002/stream,http://www.sceen.fm/
 #SchlagerDiamant Radio,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=31151,http://schlagerdiamant.radio.de/
 #Schlager Star,http://www.oldiestar.de/schlager.asx,http://www.oldiestar.de/schlagerstar/
 Schnuffis Radio,http://62.75.141.142:8100/,http://www.schnuffis-radiosender.de/
-SchottenRadio,http://www.stream24.de/tune-in/r4204.asx,http://www.schottenradio.de/
+#SchottenRadio,http://www.stream24.de/tune-in/r4204.asx,http://www.schottenradio.de/
 Schwarzwaldradio,http://players.creacast.com/creacast/hitradio_ohr_thema1/playlist.asx,http://www.schwarzwaldradio.com/
 #Sender KW,http://www.sender-kw.de/stream/sender-kw.m3u,http://www.sender-kw.de/
 Shaya FM,http://www.shayafm.com/modules/mod_ngs_shoutcast/singleplaylist.php?ip=81.171.50.130&port=9164&format=M3U,http://www.shayafm.com/
@@ -706,7 +706,7 @@ Shouted FM Club,http://club.mthN.net:8200,http://www.shoutedfm.de/
 Shouted FM Electro,http://electro.mthN.net:8400,http://www.shoutedfm.de/
 Shouted FM House,http://house.mthN.net:8500,http://www.shoutedfm.de/
 #Shouted FM Mainstream,http://www.shouted.fm/tunein/main-dsl.m3u,http://www.shoutedfm.de/
-Simply Electronica,http://www.stream24.de/tune-in/r2710.asx,http://www.simply-electronica.de/
+#Simply Electronica,http://www.stream24.de/tune-in/r2710.asx,http://www.simply-electronica.de/
 Singlestreff-Radio,http://87.118.119.128:10300,http://germanradio.info/radio/
 #Smart Radio,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=31275,http://smartradio.radio.de/
 #Smile Fox Radio,http://www.renkes-it.de/sfr_php/infusions/gr_streamstatus_panel/includes/listen.asx,http://smile-fox-radio.de/
@@ -764,7 +764,7 @@ SWR DASDING,http://swr.ic.llnwd.net/stream/swr_mp3_m_dasdinga,http://www.dasding
 #SWR DASDING Lautstark,http://swr.ic.llnwd.net/stream/swr_mp3_m_dasdingraka01a.m3u,http://www.dasding.de/#http://www.dasding.de/lautstark/-/id=52332/vv=content/dcgrp=0/1x01vhk/index.html
 #SWR DASDING Plattenleger,http://swr.ic.llnwd.net/stream/swr_mp3_m_dasdingraka03a.m3u,http://www.dasding.de/#http://www.dasding.de/home/sendungen/Plattenleger/-/id=340/vv=content/dcgrp=0/nid=340/did=52312/15cacqp/index.html
 #SWR DASDING Sprechstunde,http://swr.ic.llnwd.net/stream/swr_mp3_m_dasdingraka02a.m3u,http://www.dasding.de/#http://www.dasding.de/home/sendungen/Sprechstunde/-/id=340/vv=content/dcgrp=0/nid=340/did=52226/1fgtmgc/index.html
-Sympatic Funradio,http://www.stream24.de/tune-in/r2850.asx,http://www.sympatic-funradio.de/
+#Sympatic Funradio,http://www.stream24.de/tune-in/r2850.asx,http://www.sympatic-funradio.de/
 #Synergy Radio,http://www.synergyradio.de/streamurl.asx,http://www.synergyradio.de/
 #tanzfm,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28042,http://www.tanzfm.de/
 techno4ever.net,http://listen.to.techno4ever.net,http://www.techno4ever.net/
@@ -779,7 +779,7 @@ TOP40 Electro,http://tiscali.project-fx.de/play.wma?radio=top40e,http://www.radi
 TOP40 Frisch,http://tiscali.project-fx.de/play.wma?radio=top40fresh,http://www.radiotop40.de/www/musik/webradio/index.php
 TOP40,http://tiscali.project-fx.de/play.wma?radio=top40,http://www.radiotop40.de/www/musik/webradio/index.php
 TOP40 Schwarzmarkt,http://tiscali.project-fx.de/play.wma?radio=top40black,http://www.radiotop40.de/www/musik/webradio/index.php
-TOP FM,http://85.214.91.242:8000/stream_hq.mp3,http://www.top-fm.de/,http://www.top-fm.de/favicon.ico
+#TOP FM,http://85.214.91.242:8000/stream_hq.mp3,http://www.top-fm.de/,http://www.top-fm.de/favicon.ico
 Trancebase.FM,http://listen.trancebase.fm/dsl.pls,http://www.trancebase.fm/,http://www.trancebase.fm/favicon/8.ico
 Trancemission.FM Chillout,http://radio1.trancemission.fm:6660,http://www.trancemission.fm/
 Trancemission.FM Meditation,http://radio2.trancemission.fm:6667,http://www.trancemission.fm/
@@ -845,9 +845,9 @@ WildLife-Radio Mainstream,http://r1.gold-stream.de:1300,http://www.wildlife-radi
 #Wunschradio Schlager,http://www.wunschradio.de/streamlinks/schlager/winamp.pls,http://www.wunschradio.de/,http://www.wunschradio.de/templates/wunschradio2012/favicon.ico
 #Wüste Welle Tuebingen,http://188.40.63.198:8000/stream.m3u,http://www.wueste-welle.de/
 #www.Chart-Fire.de,http://www.chat-fire.de/listen.m3u,http://www.chat-fire.de/
-XXL-Radio,http://www.xxl-radio.de/xxl-radio8000.wax,http://www.xxl-radio.de/
+#XXL-Radio,http://www.xxl-radio.de/xxl-radio8000.wax,http://www.xxl-radio.de/
 YourZZ fm,http://s3.global-streaming.net:8100,http://www.yourzzfm.de/
-youth-fm.de,http://www.youth-fm.de/yfm.m3u,http://www.youth-fm.de/
+#youth-fm.de,http://www.youth-fm.de/yfm.m3u,http://www.youth-fm.de/
 Zappateers Radio,http://zappateers.oblivion-software.de:8000/listen.pls,http://zappateers.oblivion-software.de/
 ZoneMix,http://www.impek.com/go/zonemix/windows,http://www.zonemix.eu/
-Zünd FM,http://streaming.zuend-fm.de/stream-high.m3u,http://www.zuend-fm.de/
+#Zünd FM,http://streaming.zuend-fm.de/stream-high.m3u,http://www.zuend-fm.de/
