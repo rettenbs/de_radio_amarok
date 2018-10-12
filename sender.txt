@@ -17,7 +17,7 @@
 1Live Klubbing,http://www.wdr.de/wdrlive/media/1live_klubbing.m3u,http://www.einslive.de/,http://www.einslive.de/codebase/nav/favicon.ico
 1Live Plan B,http://www.wdr.de/wdrlive/media/1live_planb.m3u,http://www.einslive.de/,http://www.einslive.de/codebase/nav/favicon.ico
 1Live Plan B mit...,http://www.wdr.de/wdrlive/media/1live_planbmit.m3u,http://www.einslive.de/,http://www.einslive.de/codebase/nav/favicon.ico
-1Live Rocker,http://www.wdr.de/wdrlive/media/1live_rocker.m3u,http://www.einslive.de/,http://www.einslive.de/codebase/nav/favicon.ico
+#1Live Rocker,http://www.wdr.de/wdrlive/media/1live_rocker.m3u,http://www.einslive.de/,http://www.einslive.de/codebase/nav/favicon.ico
 #2Radio,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=25261,http://nightlife.2switch.de/
 304 Radio 1,http://87.106.137.55:9800/,http://304radio.styleventure.de/
 304 Radio 2,http://87.106.137.55:9810/,http://304radio.styleventure.de/
@@ -181,6 +181,8 @@ DRadio Wissen,http://www.dradio.de/streaming/dradiowissen.m3u,http://wissen.drad
 Eldoradio 93.0 Dortmund,http://eldoweb.eldoradio.de:8000/128,http://www.eldoradio.de/
 #electrosound.tv,http://listen.electrosound.tv/mp3.pls,http://www.electrosound.tv/,http://www.electrosound.tv/favicon.ico
 #electrowahn.de,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=21092,http://80.74.135.160/
+ERF Plus,http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3,https://www.erf.de/
+ERF pop,http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3,https://www.erf.de/
 #fantasy dance fm 96.7,http://dancefmwebradio.de:8000/dsl_stream.mp3,http://www.fantasy.de/
 FFH Alternative,http://streams.ffh.de/ffhchannels/mp3/hqalternative.m3u,http://www.ffh.de/,http://www.ffh.de/fileadmin/templates/www.ffh.de/favicon.ico
 FFH Deutsch Pur,http://streams.ffh.de/ffhchannels/mp3/hqdeutsch.m3u,http://www.ffh.de/,http://www.ffh.de/fileadmin/templates/www.ffh.de/favicon.ico
@@ -204,13 +206,13 @@ Freies Radio Freudenstadt,http://85.25.176.186:9140/listen.pls,http://www.radio-
 #Freies Radio Wiesental,http://freies-radio-wiesental.de:8000/frw.ogg.m3u,http://freies-radio-wiesental.de/,http://freies-radio-wiesental.de/favicon.ico
 #Freies Sender Kombinat Hamburg,http://stream.fsk-hh.org:8000/fsk.ogg.m3u,http://www.fsk-hh.org/
 #fruehlingsgefuehle.radio.de,http://dude.mp3streams.net/fruehlingsgefuehle,http://fruehlingsgefuehle.radio.de/
-Funkhaus Bermana Kurdi,http://www.wdr.de/wdrlive/media/funkhauseuropa_kurdisch.m3u,http://www.funkhauseuropa.de/
-Funkhaus die5planeten,http://www.wdr.de/wdrlive/media/funkhauseuropa_5planeten.m3u,http://www.funkhauseuropa.de/
-Funkhaus Europa,http://www.wdr.de/wdrlive/media/fhe.m3u,http://www.funkhauseuropa.de/
-Funkhaus KölnRadyosuNET,http://www.wdr.de/wdrlive/media/koelnradyosunet.m3u,http://www.funkhauseuropa.de/
-Funkhaus MassiveReggae,http://www.wdr.de/wdrlive/media/funkhauseuropa_massivereggae.m3u,http://www.funkhauseuropa.de/
-Funkhaus Radio Colonia,http://www.wdr.de/wdrlive/media/funkhauseuropa_italienisch.m3u,http://www.funkhauseuropa.de/
-Funkhaus Spirits,http://www.wdr.de/wdrlive/media/funkhauseuropa_spirits.m3u,http://www.funkhauseuropa.de/
+#Funkhaus Bermana Kurdi,http://www.wdr.de/wdrlive/media/funkhauseuropa_kurdisch.m3u,http://www.funkhauseuropa.de/
+#Funkhaus die5planeten,http://www.wdr.de/wdrlive/media/funkhauseuropa_5planeten.m3u,http://www.funkhauseuropa.de/
+#Funkhaus Europa,http://www.wdr.de/wdrlive/media/fhe.m3u,http://www.funkhauseuropa.de/
+#Funkhaus KölnRadyosuNET,http://www.wdr.de/wdrlive/media/koelnradyosunet.m3u,http://www.funkhauseuropa.de/
+#Funkhaus MassiveReggae,http://www.wdr.de/wdrlive/media/funkhauseuropa_massivereggae.m3u,http://www.funkhauseuropa.de/
+#Funkhaus Radio Colonia,http://www.wdr.de/wdrlive/media/funkhauseuropa_italienisch.m3u,http://www.funkhauseuropa.de/
+#Funkhaus Spirits,http://www.wdr.de/wdrlive/media/funkhauseuropa_spirits.m3u,http://www.funkhauseuropa.de/
 Gamer-FM,http://82.149.224.55:8500/,http://www.gamer-fm.de/
 #German-Radio.NET,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=34358,http://www.german-radio.net/
 #GermanyFM,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=29906,http://www.laut.fm/germanyfm
@@ -448,7 +450,7 @@ Planet Radio Nightwax,http://tiscali.project-fx.de/play.wma?radio=plrnw,http://w
 #PsyRadio Chillout,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=23025,http://www.psyradio.fm/
 #PsyRadio Progressive,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=20166,http://www.psyradio.fm/
 #PsyRadio PsyTrance,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=11851,http://www.psyradio.fm/
-Punk-Radio,http://streaming03.punk-radio.de:8000/listen.pls,http://www.punk-radio.de/,http://www.punk-radio.de/misc/favicon.ico
+#Punk-Radio,http://streaming03.punk-radio.de:8000/listen.pls,http://www.punk-radio.de/,http://www.punk-radio.de/misc/favicon.ico
 Punkrockers-Radio,http://www.punkrockers-radio.de/punkrockers.pls,http://www.punkrockers-radio.de/,http://www.punkrockers-radio.de/favicon.ico
 Radio 1907,http://www.radio1907.de/infusions/gr_radiostatus_panel/gr_radiostatus_player.php?id=1&p=pls,http://www.radio1907.de/,http://www.radio1907.de/images/favicon.ico
 #Radio 21,http://www.radio21.de/livestream/livestream.m3u,http://www.radio21.de/,http://www.radio21.de/images/animated_favicon.gif
@@ -492,7 +494,7 @@ Radio Cobra,http://www.radio-cobra.de/infusions/wh_stream_panel/download/dl_wina
 #RADIO CORAX,http://streaming.fueralle.org:8000/corax.mp3.m3u,http://959.radiocorax.de,http://959.radiocorax.de/templates/corax2/favicon.ico
 #Radio Cottbus,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=15430,http://www.radio-cottbus.de/
 #Radio Dark Dimensions,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28223,http://www.radio-dark-dimensions.de/
-Radio Darmstadt,http://www.radiodarmstadt.de/fileadmin/templates/stream.asx,http://www.radiodarmstadt.de/
+#Radio Darmstadt,http://www.radiodarmstadt.de/fileadmin/templates/stream.asx,http://www.radiodarmstadt.de/
 #Radio DD63,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=28527,http://www.radio-dd63.de/
 Radio Domm,http://srv14.tmsrv.de:3270/,http://www.radio-domm.de/
 #Radio Dresden,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22274,http://www.radiodresden.de/
@@ -585,7 +587,7 @@ Radio.null6,http://62.27.26.27:80/,http://www.radio.null6.net/
 #Radio Oberkrain,http://www.radio-oberkrain.com/Radio_Oberkrain/mediafiles/ro.asx,http://www.radio-oberkrain.com/
 #Radio Oberland,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=12193,http://www.radio-oberland.de/
 #Radio-of-Mystic,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=33547,www.radiomystic.com/
-Radio Okerwelle 104.6,http://www.okerwelle.de/webradio/live.m3u,http://www.okerwelle.de/cms/
+#Radio Okerwelle 104.6,http://www.okerwelle.de/webradio/live.m3u,http://www.okerwelle.de/cms/
 #Radio OKJ,http://streamserver.max.fm/okjena.m3u,http://www.radio-okj.de/
 Radio Ostfriesland,http://www.radiostream.de/stream/36949.asx,http://neu.radio-ostfriesland.com/
 Radio Paradiso,http://rhb.3qmedien.net:8500/,http://www.paradiso.de/,http://www.paradiso.de/favicon.ico
@@ -595,7 +597,7 @@ Radio Primaton,http://webradio.radioprimaton.de:8000,http://www.primatononline.d
 #Radio PSR,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=2643,http://www.radiopsr.de/
 #Radio Q,http://radioq.de/stream/gross.pls,http://www.radioq.de/,http://www.radioq.de/wp-content/themes/revolution_pro-10/images/favicon.ico
 #radio quintessenz,http://www.radioquintessenz.de/intros/wma192k.asx,http://www.radioquintessenz.de/
-Radio Ramasuri,http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-ramasuri/livestream.mp3,http://www.ramasuri.de/,http://www.ramasuri.de/favicon.ico
+#Radio Ramasuri,http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-ramasuri/livestream.mp3,http://www.ramasuri.de/,http://www.ramasuri.de/favicon.ico
 Radio Regenbogen,http://webradio.regenbogen.de/live,http://www.regenbogenweb.de/
 Radio Rheinwelle,http://rheinwelle.s2.onlinestream.de/listen1.m3u,http://www.radio-rheinwelle.de/
 #Radio RSG,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22349,http://www.radiorsg.de/
@@ -614,7 +616,7 @@ Radio SAW,http://stream.radiosaw.de/,http://www.radiosaw.de/stream.m3u,http://ww
 #Radio SAW Rock,http://stream.saw-musikwelt.de/saw-rock/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
 #Radio SAW Schlager,http://stream.saw-musikwelt.de/saw-schlager/stream.m3u,http://www.radiosaw.de/,http://www.radiosaw.de/favicon.ico
 Radio Schwarze Welle,http://www.schwarze-welle.de/play.m3u,http://www.schwarze-welle.com/
-Radio Seefunk,http://webradio.radio-seefunk.de:8000/listen.pls,http://www.radio-seefunk.de/,http://media.kanal8.de/favicons/favicon60.ico
+#Radio Seefunk,http://webradio.radio-seefunk.de:8000/listen.pls,http://www.radio-seefunk.de/,http://media.kanal8.de/favicons/favicon60.ico
 #Radio Siegen,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=24596,http://www.radio-siegen.de/
 Radio Sound4You,http://www.leiche.mistkerl.eu/streambox/media.php?url=streamserver03.de&port=13028,http://www.radiosound4you.de/
 Radio SSC,http://www.radio-ssc.de:9000,http://www.radio-ssc.de/
@@ -684,7 +686,7 @@ Rockradio.de,http://www.rockradio.de/rr_listen_128k_winamp.m3u,http://www.rockra
 RPR1 RnB,http://tiscali.project-fx.de/play.wma?radio=rpr1rnb,http://www.rpr1.de/de/content/view/75/343/
 #RPR1 Rock,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22318,http://www.rpr1.de/de/content/view/75/343/
 #RPR2,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22317,www.rpr2.de/
-RSA Radio,http://webradio.rsa-radio.de/rsa.m3u,http://www.rsa-radio.de/
+#RSA Radio,http://webradio.rsa-radio.de/rsa.m3u,http://www.rsa-radio.de/
 #RSH,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=6814,http://www.rsh.de/
 RTR 1 Radio Europa Melodienradio,http://www.radiostream.de/stream/27630.m3u,http://www.rtr-radio.de/
 RTR 2 Radio Europa Powerstream,http://www.radiostream.de/stream/33525.m3u,http://www.rtr-radio.de/
@@ -794,7 +796,7 @@ Unser Radio,http://unserradiostream.kanal8.de:8852,http://www.unserradio.de/
 UR-Radio Main,http://www.ur-radio.de/united-main.m3u,http://www.ur-radio.de
 UR-Radio Rock,http://www.ur-radio.de/united-rock.m3u,http://www.ur-radio.de
 #Vechta FM,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=26754,http://vechtafm.radio.de/
-Veedelsradio KĂ¶ln,http://www.veedelsradio.com/stream.asx,http://www.veedelsradio.de/
+#Veedelsradio KĂ¶ln,http://www.veedelsradio.com/stream.asx,http://www.veedelsradio.de/
 #VIBES FM,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=34557,http://vibesfm.radio.de/
 vilradio,http://62.146.2.66:8000/vilradio,http://www.vilradio.de/
 Vogtland Radio,http://stream.green.ch/vogtlandradio,http://www.vogtlandradio.de/
@@ -816,7 +818,7 @@ WDR3,http://www.wdr.de/wdrlive/media/wdr3.m3u,http://www.wdr3.de/
 WDR5,http://www.wdr.de/wdrlive/media/wdr5.m3u,http://www.wdr5.de/
 #WDR Event,http://www.wdr.de/wdrlive/media/audioevent.asx,http://www.wdr.de/radio/home/index.phtml
 #WDR Kiraka,http://www.wdr.de/wdrlive/media/kiraka.asx,http://www.wdr.de/radio/home/index.phtml
-WDR NetRadioForum,http://www.wdr.de/wdrlive/media/netradioforum.m3u,http://www.funkhauseuropa.de/
+#WDR NetRadioForum,http://www.wdr.de/wdrlive/media/netradioforum.m3u,http://www.funkhauseuropa.de/
 #Webblaster Radio 1,http://www.webblaster.de/wbr1dsl.m3u,http://www.webblaster.de/,http://www.webblaster.de/favicon.ico
 #Webblaster Radio 2,http://www.webblaster.de/wbr2dsl.m3u,http://www.webblaster.de/,http://www.webblaster.de/favicon.ico
 #Web Hit-Radio,http://www.webhitradio.de/player/webhitradio.m3u,http://www.webhitradio.de/
@@ -824,15 +826,15 @@ WDR NetRadioForum,http://www.wdr.de/wdrlive/media/netradioforum.m3u,http://www.f
 #Webradio Informatik,http://webradio.informatik.fh-nuernberg.de/tl_files/onair/listen.asx,http://webradio.informatik.fh-nuernberg.de/
 #Webradio Magicfun,http://www.webradio-magicfun.de/mediaplayer-dsl.asx,http://www.webradio-magicfun.de/
 Web-Radio-Powerplay,http://www.digital-webstream.de/stream/20655.asx,http://www.webradio-powerplay.de
-WebRadio Troisdorf,http://www.webradiotroisdorf.de/wrt/WebRadio128.pls,http://www.webradiotroisdorf.de/
+#WebRadio Troisdorf,http://www.webradiotroisdorf.de/wrt/WebRadio128.pls,http://www.webradiotroisdorf.de/
 #Web-Treff-Radio,http://www.web-treff-radio.de/playlist.asx,http://www.web-treff-radio.de/
-WEEK-FM ONE,http://www.week-fm.de/player/stream/stream.m3u,http://www.week-fm.de/
-Week-FM THREE Schlagerfox,http://www.week-fm.de/player/three/stream.m3u,http://week-fm.de/
-WEEK-FM TWO Top 100,http://www.week-fm.de/player/two/stream.m3u,http://www.week-fm.de/
+#WEEK-FM ONE,http://www.week-fm.de/player/stream/stream.m3u,http://www.week-fm.de/
+#Week-FM THREE Schlagerfox,http://www.week-fm.de/player/three/stream.m3u,http://week-fm.de/
+#WEEK-FM TWO Top 100,http://www.week-fm.de/player/two/stream.m3u,http://www.week-fm.de/
 #Welle303,http://login.streamplus.de/player.php?spt=747.m3u,http://www.welle303.de/
 #Wellenbummler Köln-Buchheim,http://login.streamplus.de/player.php?spt=4892.m3u,http://www.wellenbummler.mynetcologne.de/
 #Welle Niederrhein,http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=22180,http://www.welleniederrhein.de/
-We Love House.FM,http://we-love-house.fm:8000/stream.m3u,http://www.we-love-house.fm/
+#We Love House.FM,http://we-love-house.fm:8000/stream.m3u,http://www.we-love-house.fm/
 #Werre Park Radio,http://login.streamplus.de/player.php?spt=6152.asx,http://www.werre-radio.de/
 WildLife-Radio Clubstream,http://r1.gold-stream.de:1350,http://www.wildlife-radio.net/
 WildLife-Radio EventStream,http://r1.gold-stream.de:1360,http://www.wildlife-radio.net/
